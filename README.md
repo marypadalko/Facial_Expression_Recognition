@@ -1,5 +1,6 @@
 # Facial_Expression_Recognition
 
+In collaboration with drorrosen (https://github.com/drorrosen)
 
 
 ![image](https://drive.google.com/uc?export=view&id=1vjntSNkaeuyZOT1s2c_7iY8GKFTVWep2)
@@ -30,3 +31,9 @@ The next goal is to select images to get balanced (or almost balanced) data. We 
 # And, finally, Neural Nets:
 
 ![image](https://drive.google.com/uc?export=view&id=1MCOjNgwkCy1L4Dbz7BUABIiwkRnHd0nt)
+
+
+
+
+
+Credits: Slidesgo, Freepik, Flaticon for design
