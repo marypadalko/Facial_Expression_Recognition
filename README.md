@@ -1,4 +1,4 @@
-# Facial_Expression_Recognition
+# Facial Expression Recognition
 
 In collaboration with drorrosen (https://github.com/drorrosen)
 
