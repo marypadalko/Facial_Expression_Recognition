@@ -30,10 +30,10 @@ The next goal is to select images to get balanced (or almost balanced) data. We 
 
 # And, finally, Neural Nets:
 
-![image](https://drive.google.com/uc?export=view&id=1MCOjNgwkCy1L4Dbz7BUABIiwkRnHd0nt)
+![image](https://drive.google.com/uc?export=view&id=1pquiOlMWezTFCxXZJOuIYAmzeeVFAHus)
 
 
 
 
 
-Credits: Slidesgo, Freepik, Flaticon for design
+Credits: thanks Slidesgo, Freepik, Flaticon for design
