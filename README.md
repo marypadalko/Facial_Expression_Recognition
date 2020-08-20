@@ -26,14 +26,19 @@ The next goal is to select images to get balanced (or almost balanced) data. We 
 
 # Running a few ML models on the prepared data:
 
+RFC and XGBoost gave up to 41% accuracy on both test sets
+
 ![image](https://drive.google.com/uc?export=view&id=1LFwmIzFpPljpjcwIZWI4HU7kHMdJ77Ab)
 
 # And, finally, Neural Nets:
 
+Implemented CNNs and used VGG16 with some changes (MaxPooling, BatchNorm, Dropout). All models were trained using ReduceLROnPlateu, best result is 63.34 on Public Test and 63% on Private Test.
+
+
 ![image](https://drive.google.com/uc?export=view&id=1pquiOlMWezTFCxXZJOuIYAmzeeVFAHus)
 
 
-
+The results can be compared with the leaderboard from Kaggle competition here: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard (Probably, it would be top-10)
 
 
 Credits: thanks Slidesgo, Freepik, Flaticon for design
