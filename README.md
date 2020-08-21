@@ -7,7 +7,7 @@ In collaboration with drorrosen (https://github.com/drorrosen)
 
 # The steps:
 
-![image](https://drive.google.com/uc?export=view&id=1jl7IbTJdkEOjAKjce4p0CLnEUW4hQcpR)
+![image](https://drive.google.com/uc?export=view&id=147Ow9pY75ELQKNkW6PFsWr49-lf5taj5
 
 # Preparing the data, visualization, augmentation and balancing:
 
@@ -39,6 +39,12 @@ Implemented CNNs and used VGG16 with some changes (MaxPooling, BatchNorm, Dropou
 
 
 The results can be compared with the leaderboard from Kaggle competition here: https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/leaderboard (Probably, it would be top-10)
+
+
+# A CNN model was used to predict facial expressions from the webcam
+
+![image](https://drive.google.com/uc?export=view&id=1dFoeGt9C5i0Ir7x2-7X5AETKjhskkA45)
+
 
 
 Credits: thanks Slidesgo, Freepik, Flaticon for design
