@@ -7,7 +7,7 @@ In collaboration with drorrosen (https://github.com/drorrosen)
 
 # The steps:
 
-![image](https://drive.google.com/uc?export=view&id=147Ow9pY75ELQKNkW6PFsWr49-lf5taj5
+![image](https://drive.google.com/uc?export=view&id=147Ow9pY75ELQKNkW6PFsWr49-lf5taj5)
 
 # Preparing the data, visualization, augmentation and balancing:
 
